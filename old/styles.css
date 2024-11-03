@@ -1,0 +1,213 @@
+html,
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1f2122;
+    color: white;
+}
+
+.navbar {
+    background-color: #1f2122 !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #e75e8d !important;
+    font-size: 28px;
+}
+
+.navbar-brand img {
+    width: 50px;
+    height: auto;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.nav-link.active {
+    color: #e75e8d !important;
+}
+
+.main-section {
+    background-color: #27292a;
+    border-radius: 28px;
+}
+
+.header-section,
+.popular-games-section {
+    background-color: #1f2122;
+    border-radius: 28px;
+}
+
+.header-section h1 {
+    font-size: 2.5rem;
+}
+
+.header-section .btn-primary {
+    background-color: #e75e8d;
+    border: none;
+}
+
+.popular-games-section h2 {
+    font-size: 1.8rem;
+    color: #e75e8d;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #27292a;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 30px 20px 10px;
+    align-items: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    max-width: 90%;
+}
+
+.view-btn {
+    background-color: #e75e8d;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 25px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    box-shadow: 0 10px 20px rgba(255, 74, 141, 0.2);
+    transition: all 0.3s ease;
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.view-btn:hover {
+    background-color: white;
+    color: #e75e8d;
+}
+
+.browse-btn {
+    background-color: #e75e8d;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 25px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    box-shadow: 0 10px 20px rgba(255, 74, 141, 0.2);
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.browse-btn:hover {
+    background-color: white;
+    color: #e75e8d;
+}
+
+.search {
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 28px;
+    background-color: #27292a;
+    height: 46px;
+    transition: box-shadow 0.25s;
+}
+
+.search:focus-within {
+    box-shadow: 0 0 2px rgba(255, 255, 255);
+}
+
+.search .search-input {
+    font-size: 14px;
+    color: #666;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
+.search-icon {
+    color: #666;
+}
+
+.character-library-section {
+    background-color: #1f2122;
+    border-radius: 20px;
+    padding: 40px;
+    margin: auto;
+}
+
+.character-row {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.character {
+    display: flex;
+    align-items: center;
+    background-color: #27292a;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.character-library-section h2 {
+    font-size: 1.8rem;
+    color: #f6f6f6;
+    font-weight: bold;
+}
+
+.character-image img {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    margin-right: 15px;
+}
+
+.character-info {
+    flex: 1;
+}
+
+.character-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.character-origin {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+}
+
+.download-btn {
+    background-color: #e75e8d;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background-color: white;
+    color: #e75e8d;
+}
