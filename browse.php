@@ -132,7 +132,7 @@
                 </li>
               </ul>
               <div class="text-button">
-                <a href="profile.html">View All Games</a>
+                <a href="profile.php">View All Games</a>
               </div>
             </div>
           </div>
@@ -178,7 +178,7 @@
               </div>
               <div class="col-lg-12">
                 <div class="main-button">
-                  <a href="profile.html">Go To Profile</a>
+                  <a href="profile.php">Go To Profile</a>
                 </div>
               </div>
             </div>
@@ -300,7 +300,7 @@
             </div>
             <div class="col-lg-12">
               <div class="main-button">
-                <a href="streams.html">Discover All Streams</a>
+                <a href="streams.php">Discover All Streams</a>
               </div>
             </div>
           </div>

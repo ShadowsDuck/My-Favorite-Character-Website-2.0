@@ -369,7 +369,7 @@
             </div>
             <div class="col-lg-12">
               <div class="main-button">
-                <a href="streams.html">Load More Streams</a>
+                <a href="streams.php">Load More Streams</a>
               </div>
             </div>
           </div>
