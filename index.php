@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-lg-12">
                   <div class="main-button">
-                    <a href="browse.html">Discover Popular</a>
+                    <a href="browse.php">Discover Popular</a>
                   </div>
                 </div>
               </div>
@@ -195,7 +195,7 @@
           </div>
           <div class="col-lg-12">
             <div class="main-button">
-              <a href="profile.html">View Your Library</a>
+              <a href="profile.php">View Your Library</a>
             </div>
           </div>
         </div>
