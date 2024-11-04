@@ -10,8 +10,8 @@
           <div class="row">
             <div class="col-lg-7">
               <div class="header-text">
-                <h6>Welcome To Cyborg</h6>
-                <h4><em>Browse</em> Our Popular Games Here</h4>
+                <h6>Welcome To WAIFU WEB 2.0</h6>
+                <h4><em>Browse</em> Our Popular Characters Here</h4>
                 <div class="main-button">
                   <a href="browse.php">Browse Now</a>
                 </div>
@@ -22,17 +22,17 @@
         <!-- ***** Banner End ***** -->
 
         <!-- ***** Most Popular Start ***** -->
-        <div class="most-popular">
+        <div class="favorite-category">
           <div class="row">
             <div class="col-lg-12">
               <div class="heading-section">
-                <h4><em>Most Popular</em> Right Now</h4>
+                <h4><em>Favorite Character</em> Categories</h4>
               </div>
               <div class="row">
                 <div class="col-lg-3 col-sm-6">
                   <div class="item">
-                    <img src="assets/images/popular-01.jpg" alt="">
-                    <h4>Fortnite<br><span>Sandbox</span></h4>
+                    <img src="assets/images/honkai_starrail/honkai_starrail_logo.png" alt="">
+                    <h4>HONKAI: STAR RAIL<br><span>HoYoverse</span></h4>
                     <ul>
                       <li><i class="fa fa-star"></i> 4.8</li>
                       <li><i class="fa fa-download"></i> 2.3M</li>
@@ -41,8 +41,8 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                   <div class="item">
-                    <img src="assets/images/popular-02.jpg" alt="">
-                    <h4>PubG<br><span>Battle S</span></h4>
+                    <img src="assets/images/genshin_impact/genshin_impact_logo.jpeg" alt="">
+                    <h4>GENSHIN IMPACT<br><span>HoYoverse</span></h4>
                     <ul>
                       <li><i class="fa fa-star"></i> 4.8</li>
                       <li><i class="fa fa-download"></i> 2.3M</li>
@@ -51,8 +51,8 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                   <div class="item">
-                    <img src="assets/images/popular-03.jpg" alt="">
-                    <h4>Dota2<br><span>Steam-X</span></h4>
+                    <img src="assets/images/wuthering_waves/wuthering_waves_logo.jpg" alt="">
+                    <h4>WUTHERING WAVES<br><span>Kuro Games</span></h4>
                     <ul>
                       <li><i class="fa fa-star"></i> 4.8</li>
                       <li><i class="fa fa-download"></i> 2.3M</li>
@@ -61,15 +61,15 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                   <div class="item">
-                    <img src="assets/images/popular-04.jpg" alt="">
-                    <h4>CS-GO<br><span>Legendary</span></h4>
+                    <img src="assets/images/anime/anime_logo.jpg" alt="">
+                    <h4>CHARACTERS<br><span>Anime</span></h4>
                     <ul>
                       <li><i class="fa fa-star"></i> 4.8</li>
                       <li><i class="fa fa-download"></i> 2.3M</li>
                     </ul>
                   </div>
                 </div>
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                   <div class="item">
                     <div class="row">
                       <div class="col-lg-6 col-sm-6">
@@ -114,10 +114,10 @@
                       <li><i class="fa fa-download"></i> 2.3M</li>
                     </ul>
                   </div>
-                </div>
+                </div> -->
                 <div class="col-lg-12">
                   <div class="main-button">
-                    <a href="browse.php">Discover Popular</a>
+                    <a href="browse.php">Discover Character</a>
                   </div>
                 </div>
               </div>
@@ -126,76 +126,76 @@
         </div>
         <!-- ***** Most Popular End ***** -->
 
-        <!-- ***** Gaming Library Start ***** -->
-        <div class="gaming-library">
+        <!-- ***** Favorite Library Start ***** -->
+        <div class="favorite-library">
           <div class="col-lg-12">
             <div class="heading-section">
-              <h4><em>Your Gaming</em> Library</h4>
+              <h4><em>Your Favorite</em> Character</h4>
             </div>
             <div class="item">
               <ul>
-                <li><img src="assets/images/game-01.jpg" alt="" class="templatemo-item"></li>
+                <li><img src="assets/images/honkai_starrail/kafka.jpg" alt="" class="templatemo-item"></li>
                 <li>
-                  <h4>Dota 2</h4><span>Sandbox</span>
+                  <h4>Kafka</h4><span>Nihility</span>
+                </li>
+                <li>
+                  <h4>Affiliation</h4><span>Stellaron Hunters</span>
+                </li>
+                <li>
+                  <h4>From</h4><span>HONKAI: STAR RAIL</span>
                 </li>
                 <li>
                   <h4>Date Added</h4><span>24/08/2036</span>
                 </li>
                 <li>
-                  <h4>Hours Played</h4><span>634 H 22 Mins</span>
-                </li>
-                <li>
-                  <h4>Currently</h4><span>Downloaded</span>
-                </li>
-                <li>
-                  <div class="main-border-button border-no-active"><a href="#">Donwloaded</a></div>
+                  <div class="main-border-button"><a href="#">View Details</a></div>
                 </li>
               </ul>
             </div>
             <div class="item">
               <ul>
-                <li><img src="assets/images/game-02.jpg" alt="" class="templatemo-item"></li>
+                <li><img src="assets/images/anime/asuna.jpg" alt="" class="templatemo-item"></li>
                 <li>
-                  <h4>Fortnite</h4><span>Sandbox</span>
+                  <h4>Yuuki Asuna</h4><span>-</span>
                 </li>
                 <li>
-                  <h4>Date Added</h4><span>22/06/2036</span>
+                  <h4>Affiliation</h4><span>Student</span>
                 </li>
                 <li>
-                  <h4>Hours Played</h4><span>740 H 52 Mins</span>
+                  <h4>From</h4><span>Sword Art Online</span>
                 </li>
                 <li>
-                  <h4>Currently</h4><span>Downloaded</span>
+                  <h4>Date Added</h4><span>24/08/2036</span>
                 </li>
                 <li>
-                  <div class="main-border-button"><a href="#">Donwload</a></div>
+                  <div class="main-border-button"><a href="#">View Details</a></div>
                 </li>
               </ul>
             </div>
-            <div class="item last-item">
+            <div class="item">
               <ul>
-                <li><img src="assets/images/game-03.jpg" alt="" class="templatemo-item"></li>
+                <li><img src="assets/images/anime/1.jpg" alt="" class="templatemo-item"></li>
                 <li>
-                  <h4>CS-GO</h4><span>Sandbox</span>
+                  <h4>Yor Forger</h4><span>-</span>
                 </li>
                 <li>
-                  <h4>Date Added</h4><span>21/04/2036</span>
+                  <h4>Affiliation</h4><span>Assassin</span>
                 </li>
                 <li>
-                  <h4>Hours Played</h4><span>892 H 14 Mins</span>
+                  <h4>From</h4><span>Spy x Family</span>
                 </li>
                 <li>
-                  <h4>Currently</h4><span>Downloaded</span>
+                  <h4>Date Added</h4><span>24/08/2036</span>
                 </li>
                 <li>
-                  <div class="main-border-button border-no-active"><a href="#">Donwloaded</a></div>
+                  <div class="main-border-button"><a href="#">View Details</a></div>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="col-lg-12">
+          <div class="col-lg-12 mt-4">
             <div class="main-button">
-              <a href="profile.php">View Your Library</a>
+              <a href="profile.php">View Your Favorite</a>
             </div>
           </div>
         </div>
@@ -205,32 +205,4 @@
   </div>
 </div>
 
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <p>Copyright © 2036 <a href="#">Cyborg Gaming</a> Company. All rights reserved.
-
-          <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-
-<!-- Scripts -->
-<!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-<script src="assets/js/isotope.min.js"></script>
-<script src="assets/js/owl-carousel.js"></script>
-<script src="assets/js/tabs.js"></script>
-<script src="assets/js/popup.js"></script>
-<script src="assets/js/custom.js"></script>
-
-
-</body>
-
-</html>
+<?php include('partials/footer.php') ?>

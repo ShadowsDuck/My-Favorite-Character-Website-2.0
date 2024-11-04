@@ -8,10 +8,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Cyborg - Awesome HTML5 Template</title>
+    <title>WAIFU WEB 2.0</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -47,12 +46,13 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.php" class="logo">
-                            <img src="assets/images/logo.png" alt="">
+                        <a href="index.php" class="logo me-auto">
+                            <img src="https://media.tenor.com/Uvw2ilLXmnYAAAAj/pixel-heart.gif" alt="" class="me-3">
+                            <span class="logo-text me-4">WAIFU WEB 2.0</span>
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Search End ***** -->
-                        <div class="search-input">
+                        <div class="search-input ms-4">
                             <form id="search" action="#">
                                 <input type="text" placeholder="Type Something" id='searchText' name="searchKeyword"
                                     onkeypress="handle" />
@@ -65,7 +65,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li><a href="browse.php">Browse</a></li>
                             <li><a href="details.php">Details</a></li>
-                            <li><a href="streams.php">Streams</a></li>
+                            <!-- <li><a href="streams.php">Streams</a></li> -->
                             <li><a href="profile.php">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
                         </ul>
                         <a class='menu-trigger'>
