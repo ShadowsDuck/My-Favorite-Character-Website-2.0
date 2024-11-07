@@ -108,7 +108,7 @@
         <!-- ***** Banner End ***** -->
 
         <!-- ***** Gaming Library Start ***** -->
-        <div class="gaming-library profile-library">
+        <div class="favorite-library profile-library">
           <div class="col-lg-12">
             <div class="heading-section">
               <h4><em>Your Gaming</em> Library</h4>
